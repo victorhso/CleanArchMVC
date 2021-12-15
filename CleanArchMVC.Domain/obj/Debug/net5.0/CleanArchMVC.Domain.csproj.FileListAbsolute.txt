@@ -2,7 +2,6 @@ D:\C#\CleanArchMVC\CleanArchMVC.Domain\bin\Debug\net5.0\CleanArchMVC.Domain.deps
 D:\C#\CleanArchMVC\CleanArchMVC.Domain\bin\Debug\net5.0\CleanArchMVC.Domain.dll
 D:\C#\CleanArchMVC\CleanArchMVC.Domain\bin\Debug\net5.0\ref\CleanArchMVC.Domain.dll
 D:\C#\CleanArchMVC\CleanArchMVC.Domain\bin\Debug\net5.0\CleanArchMVC.Domain.pdb
-D:\C#\CleanArchMVC\CleanArchMVC.Domain\obj\Debug\net5.0\CleanArchMVC.Domain.csproj.AssemblyReference.cache
 D:\C#\CleanArchMVC\CleanArchMVC.Domain\obj\Debug\net5.0\CleanArchMVC.Domain.GeneratedMSBuildEditorConfig.editorconfig
 D:\C#\CleanArchMVC\CleanArchMVC.Domain\obj\Debug\net5.0\CleanArchMVC.Domain.AssemblyInfoInputs.cache
 D:\C#\CleanArchMVC\CleanArchMVC.Domain\obj\Debug\net5.0\CleanArchMVC.Domain.AssemblyInfo.cs

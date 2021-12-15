@@ -325,6 +325,14 @@ D:\C#\CleanArchMVC\CleanArchMVC.WebUI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis
 D:\C#\CleanArchMVC\CleanArchMVC.WebUI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
 D:\C#\CleanArchMVC\CleanArchMVC.WebUI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
 D:\C#\CleanArchMVC\CleanArchMVC.WebUI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\CleanArchMVC\CleanArchMVC.WebUI\bin\Debug\net5.0\CleanArchMVC.Application.dll
+D:\C#\CleanArchMVC\CleanArchMVC.WebUI\bin\Debug\net5.0\CleanArchMVC.Domain.dll
+D:\C#\CleanArchMVC\CleanArchMVC.WebUI\bin\Debug\net5.0\CleanArchMVC.Infra.Data.dll
+D:\C#\CleanArchMVC\CleanArchMVC.WebUI\bin\Debug\net5.0\CleanArchMVC.Infra.IoC.dll
+D:\C#\CleanArchMVC\CleanArchMVC.WebUI\bin\Debug\net5.0\CleanArchMVC.Infra.IoC.pdb
+D:\C#\CleanArchMVC\CleanArchMVC.WebUI\bin\Debug\net5.0\CleanArchMVC.Application.pdb
+D:\C#\CleanArchMVC\CleanArchMVC.WebUI\bin\Debug\net5.0\CleanArchMVC.Domain.pdb
+D:\C#\CleanArchMVC\CleanArchMVC.WebUI\bin\Debug\net5.0\CleanArchMVC.Infra.Data.pdb
 D:\C#\CleanArchMVC\CleanArchMVC.WebUI\obj\Debug\net5.0\CleanArchMVC.WebUI.csproj.AssemblyReference.cache
 D:\C#\CleanArchMVC\CleanArchMVC.WebUI\obj\Debug\net5.0\CleanArchMVC.WebUI.GeneratedMSBuildEditorConfig.editorconfig
 D:\C#\CleanArchMVC\CleanArchMVC.WebUI\obj\Debug\net5.0\CleanArchMVC.WebUI.AssemblyInfoInputs.cache
@@ -354,11 +362,3 @@ D:\C#\CleanArchMVC\CleanArchMVC.WebUI\obj\Debug\net5.0\CleanArchMVC.WebUI.dll
 D:\C#\CleanArchMVC\CleanArchMVC.WebUI\obj\Debug\net5.0\ref\CleanArchMVC.WebUI.dll
 D:\C#\CleanArchMVC\CleanArchMVC.WebUI\obj\Debug\net5.0\CleanArchMVC.WebUI.pdb
 D:\C#\CleanArchMVC\CleanArchMVC.WebUI\obj\Debug\net5.0\CleanArchMVC.WebUI.genruntimeconfig.cache
-D:\C#\CleanArchMVC\CleanArchMVC.WebUI\bin\Debug\net5.0\CleanArchMVC.Application.dll
-D:\C#\CleanArchMVC\CleanArchMVC.WebUI\bin\Debug\net5.0\CleanArchMVC.Domain.dll
-D:\C#\CleanArchMVC\CleanArchMVC.WebUI\bin\Debug\net5.0\CleanArchMVC.Infra.Data.dll
-D:\C#\CleanArchMVC\CleanArchMVC.WebUI\bin\Debug\net5.0\CleanArchMVC.Infra.IoC.dll
-D:\C#\CleanArchMVC\CleanArchMVC.WebUI\bin\Debug\net5.0\CleanArchMVC.Infra.IoC.pdb
-D:\C#\CleanArchMVC\CleanArchMVC.WebUI\bin\Debug\net5.0\CleanArchMVC.Application.pdb
-D:\C#\CleanArchMVC\CleanArchMVC.WebUI\bin\Debug\net5.0\CleanArchMVC.Domain.pdb
-D:\C#\CleanArchMVC\CleanArchMVC.WebUI\bin\Debug\net5.0\CleanArchMVC.Infra.Data.pdb

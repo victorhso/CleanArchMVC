@@ -8,7 +8,7 @@ namespace CleanArchMVC.Domain.Tets
     public class CategoryUnitTest1
     {
         [Fact(DisplayName ="Create Category With Valid State")]
-        public void CreateCategory_WithValidParamters_ResultObjectValidState()
+        public void CreateCategory_WithValidParameters_ResultObjectValidState()
         {
             Action action = () => new Category(1, "Category Name");
             action.Should().NotThrow<CleanArchMVC.Domain.Validation.DomainExceptionValidation>();
