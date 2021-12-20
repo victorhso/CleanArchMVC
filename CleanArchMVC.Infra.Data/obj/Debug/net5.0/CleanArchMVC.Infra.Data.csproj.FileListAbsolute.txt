@@ -13,3 +13,6 @@ D:\C#\CleanArchMVC\CleanArchMVC.Infra.Data\obj\Debug\net5.0\CleanArchMVC.Infra.D
 D:\C#\CleanArchMVC\CleanArchMVC.Infra.Data\obj\Debug\net5.0\CleanArchMVC.Infra.Data.dll
 D:\C#\CleanArchMVC\CleanArchMVC.Infra.Data\obj\Debug\net5.0\ref\CleanArchMVC.Infra.Data.dll
 D:\C#\CleanArchMVC\CleanArchMVC.Infra.Data\obj\Debug\net5.0\CleanArchMVC.Infra.Data.pdb
+D:\C#\CleanArchMVC\CleanArchMVC.Infra.Data\bin\Debug\net5.0\CleanArchMVC.Infra.Data.runtimeconfig.json
+D:\C#\CleanArchMVC\CleanArchMVC.Infra.Data\bin\Debug\net5.0\CleanArchMVC.Infra.Data.runtimeconfig.dev.json
+D:\C#\CleanArchMVC\CleanArchMVC.Infra.Data\obj\Debug\net5.0\CleanArchMVC.Infra.Data.genruntimeconfig.cache
