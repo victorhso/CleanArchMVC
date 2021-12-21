@@ -10,32 +10,35 @@ namespace CleanArchMVC.Domain.Entities
     public sealed class Category : Entity
     {
         public string DS_NAME { get; private set; }
+
+        public Category() { }
+        public Category(string name)
+        {
+            ValidateDomain(name);
+        }
+
+        public Category(int id, string name)
+        {
+            DomainExceptionValidation.When(id < 0, "Invalid Id value!");
+            ID = id;
+            ValidateDomain(name);
+        }
+
+        public void Update(string name)
+        {
+            ValidateDomain(name);
+        }
         public ICollection<Product> Products { get; set; }
 
-        public Category(string ds_name)
+        private void ValidateDomain(string name)
         {
-            ValidateDomain(ds_name);
-        }
+            DomainExceptionValidation.When(string.IsNullOrEmpty(name),
+                "invalid name! Name is required.");
 
-        public Category(int id_category, string ds_name)
-        {
-            DomainExceptionValidation.When(id_category < 0, "Invalid ID value!");
+            DomainExceptionValidation.When(name.Length < 3,
+               "Invalid name, too short, minimum 3 characters.");
 
-            ID = id_category;
-            ValidateDomain(ds_name);
-        }
-
-        private void ValidateDomain(string ds_name)
-        {
-            DomainExceptionValidation.When(String.IsNullOrEmpty(ds_name), "invalid name! Name is required.");
-
-            DomainExceptionValidation.When(ds_name.Length < 3, "invalid name, too short, minimum 3 characters.");
-
-            DS_NAME = ds_name;
-        }
-        public void Update(string ds_name)
-        {
-            ValidateDomain(ds_name);
+            DS_NAME = name;
         }
     }
 }

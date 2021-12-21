@@ -17,3 +17,6 @@ D:\C#\CleanArchMVC\CleanArchMVC.Infra.IoC\obj\Debug\net5.0\CleanArchMVC.Infra.Io
 D:\C#\CleanArchMVC\CleanArchMVC.Infra.IoC\obj\Debug\net5.0\CleanArchMVC.Infra.IoC.dll
 D:\C#\CleanArchMVC\CleanArchMVC.Infra.IoC\obj\Debug\net5.0\ref\CleanArchMVC.Infra.IoC.dll
 D:\C#\CleanArchMVC\CleanArchMVC.Infra.IoC\obj\Debug\net5.0\CleanArchMVC.Infra.IoC.pdb
+D:\C#\CleanArchMVC\CleanArchMVC.Infra.IoC\bin\Debug\net5.0\CleanArchMVC.Infra.IoC.runtimeconfig.json
+D:\C#\CleanArchMVC\CleanArchMVC.Infra.IoC\bin\Debug\net5.0\CleanArchMVC.Infra.IoC.runtimeconfig.dev.json
+D:\C#\CleanArchMVC\CleanArchMVC.Infra.IoC\obj\Debug\net5.0\CleanArchMVC.Infra.IoC.genruntimeconfig.cache

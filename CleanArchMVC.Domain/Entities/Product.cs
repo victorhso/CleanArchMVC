@@ -18,6 +18,9 @@ namespace CleanArchMVC.Domain.Entities
         public int ID_CATEGORY { get; set; }
         public Category Category { get; set; }
 
+        public Product()
+        { }
+
         public Product(string ds_name, string ds_description, decimal vl_price, int qty_stock, string ds_image)
         {
             ValidateDomain(ds_name, ds_description, vl_price, qty_stock, ds_image);
