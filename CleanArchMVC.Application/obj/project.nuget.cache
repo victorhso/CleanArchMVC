@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aiO4Got3MERJ0edkXFyNsur6aAVMZieY1lRuZzzNwu57WagjGLRL7Yy3E37mOK1OWglO8E2etxkOiyWiSOWS5Q==",
+  "dgSpecHash": "ZVZHoxMw1cyq60sPEBYCN0clnzVWHPHe7pEgptvfK5QQ63mfFsZ4WUO+w0LcAkHepyjPIAnQ2UjwxBhqYbAE7Q==",
   "success": true,
-  "projectFilePath": "D:\\C#\\CleanArchMVC\\CleanArchMVC.Application\\CleanArchMVC.Application.csproj",
+  "projectFilePath": "D:\\CSharp\\CleanArchMVC\\CleanArchMVC.Application\\CleanArchMVC.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\victo\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\victo\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

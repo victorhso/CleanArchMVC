@@ -5819,11 +5819,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#\\CleanArchMVC\\CleanArchMVC.Infra.Data\\CleanArchMVC.Infra.Data.csproj",
+      "projectUniqueName": "D:\\CSharp\\CleanArchMVC\\CleanArchMVC.Infra.Data\\CleanArchMVC.Infra.Data.csproj",
       "projectName": "CleanArchMVC.Infra.Data",
-      "projectPath": "D:\\C#\\CleanArchMVC\\CleanArchMVC.Infra.Data\\CleanArchMVC.Infra.Data.csproj",
+      "projectPath": "D:\\CSharp\\CleanArchMVC\\CleanArchMVC.Infra.Data\\CleanArchMVC.Infra.Data.csproj",
       "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
-      "outputPath": "D:\\C#\\CleanArchMVC\\CleanArchMVC.Infra.Data\\obj\\",
+      "outputPath": "D:\\CSharp\\CleanArchMVC\\CleanArchMVC.Infra.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5846,8 +5846,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\C#\\CleanArchMVC\\CleanArchMVC.Domain\\CleanArchMVC.Domain.csproj": {
-              "projectPath": "D:\\C#\\CleanArchMVC\\CleanArchMVC.Domain\\CleanArchMVC.Domain.csproj"
+            "D:\\CSharp\\CleanArchMVC\\CleanArchMVC.Domain\\CleanArchMVC.Domain.csproj": {
+              "projectPath": "D:\\CSharp\\CleanArchMVC\\CleanArchMVC.Domain\\CleanArchMVC.Domain.csproj"
             }
           }
         }

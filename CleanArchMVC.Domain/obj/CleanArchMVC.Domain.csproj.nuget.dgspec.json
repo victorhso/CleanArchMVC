@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\CleanArchMVC\\CleanArchMVC.Domain\\CleanArchMVC.Domain.csproj": {}
+    "D:\\CSharp\\CleanArchMVC\\CleanArchMVC.Domain\\CleanArchMVC.Domain.csproj": {}
   },
   "projects": {
-    "D:\\C#\\CleanArchMVC\\CleanArchMVC.Domain\\CleanArchMVC.Domain.csproj": {
+    "D:\\CSharp\\CleanArchMVC\\CleanArchMVC.Domain\\CleanArchMVC.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\CleanArchMVC\\CleanArchMVC.Domain\\CleanArchMVC.Domain.csproj",
+        "projectUniqueName": "D:\\CSharp\\CleanArchMVC\\CleanArchMVC.Domain\\CleanArchMVC.Domain.csproj",
         "projectName": "CleanArchMVC.Domain",
-        "projectPath": "D:\\C#\\CleanArchMVC\\CleanArchMVC.Domain\\CleanArchMVC.Domain.csproj",
+        "projectPath": "D:\\CSharp\\CleanArchMVC\\CleanArchMVC.Domain\\CleanArchMVC.Domain.csproj",
         "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\CleanArchMVC\\CleanArchMVC.Domain\\obj\\",
+        "outputPath": "D:\\CSharp\\CleanArchMVC\\CleanArchMVC.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -6077,11 +6077,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#\\CleanArchMVC\\CleanArchMVC.Domain.Tets\\CleanArchMVC.Domain.Tets.csproj",
+      "projectUniqueName": "D:\\CSharp\\CleanArchMVC\\CleanArchMVC.Domain.Tets\\CleanArchMVC.Domain.Tets.csproj",
       "projectName": "CleanArchMVC.Domain.Tets",
-      "projectPath": "D:\\C#\\CleanArchMVC\\CleanArchMVC.Domain.Tets\\CleanArchMVC.Domain.Tets.csproj",
+      "projectPath": "D:\\CSharp\\CleanArchMVC\\CleanArchMVC.Domain.Tets\\CleanArchMVC.Domain.Tets.csproj",
       "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
-      "outputPath": "D:\\C#\\CleanArchMVC\\CleanArchMVC.Domain.Tets\\obj\\",
+      "outputPath": "D:\\CSharp\\CleanArchMVC\\CleanArchMVC.Domain.Tets\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -6104,8 +6104,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\C#\\CleanArchMVC\\CleanArchMVC.Domain\\CleanArchMVC.Domain.csproj": {
-              "projectPath": "D:\\C#\\CleanArchMVC\\CleanArchMVC.Domain\\CleanArchMVC.Domain.csproj"
+            "D:\\CSharp\\CleanArchMVC\\CleanArchMVC.Domain\\CleanArchMVC.Domain.csproj": {
+              "projectPath": "D:\\CSharp\\CleanArchMVC\\CleanArchMVC.Domain\\CleanArchMVC.Domain.csproj"
             }
           }
         }

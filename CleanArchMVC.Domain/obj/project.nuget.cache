@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+HDsu3HlRAIiyVCRxyuKJefe0uENi/iGOwgvGmRpUJwzjxUfhw2g5gPVeohv+lCkchIL4AhkXgKhegbGKmHArg==",
+  "dgSpecHash": "Fs8CobtB71qSWk9Kfq7DSUu4Uqs+0UMAxildevF0iPsaKgMyd/bhUtgL69YJvs31FxudcHQtkaWuWG3mTL2yPA==",
   "success": true,
-  "projectFilePath": "D:\\C#\\CleanArchMVC\\CleanArchMVC.Domain\\CleanArchMVC.Domain.csproj",
+  "projectFilePath": "D:\\CSharp\\CleanArchMVC\\CleanArchMVC.Domain\\CleanArchMVC.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

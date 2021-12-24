@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "R42X6DbdoBXMXtFbmOMwRAN0wE/u7xoNYSx34RJIB2vIKhW9yYqbqHtAIBQCuuSWWv4p1dZ/HZ5WjriPGaQNOg==",
+  "dgSpecHash": "8EoxxnyNwTmBMvceo5gETYn22wBgPiyH7I0azXHFqXpMIDo3364TwaM6B58JaGgnV3kdzKNj/UUAcCfBcPqQsw==",
   "success": true,
-  "projectFilePath": "D:\\C#\\CleanArchMVC\\CleanArchMVC.Infra.IoC\\CleanArchMVC.Infra.IoC.csproj",
+  "projectFilePath": "D:\\CSharp\\CleanArchMVC\\CleanArchMVC.Infra.IoC\\CleanArchMVC.Infra.IoC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\victo\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
     "C:\\Users\\victo\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\victo\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\victo\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
