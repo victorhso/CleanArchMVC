@@ -21,3 +21,4 @@ D:\CSharp\CleanArchMVC\CleanArchMVC.Domain\obj\Debug\net5.0\CleanArchMVC.Domain.
 D:\CSharp\CleanArchMVC\CleanArchMVC.Domain\obj\Debug\net5.0\CleanArchMVC.Domain.dll
 D:\CSharp\CleanArchMVC\CleanArchMVC.Domain\obj\Debug\net5.0\ref\CleanArchMVC.Domain.dll
 D:\CSharp\CleanArchMVC\CleanArchMVC.Domain\obj\Debug\net5.0\CleanArchMVC.Domain.pdb
+D:\CSharp\CleanArchMVC\CleanArchMVC.Domain\obj\Debug\net5.0\CleanArchMVC.Domain.csproj.AssemblyReference.cache
