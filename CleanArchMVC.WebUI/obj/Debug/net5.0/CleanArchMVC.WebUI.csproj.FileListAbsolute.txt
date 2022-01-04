@@ -793,3 +793,4 @@ D:\CSharp\CleanArchMVC\CleanArchMVC.WebUI\bin\Debug\net5.0\MediatR.dll
 D:\CSharp\CleanArchMVC\CleanArchMVC.WebUI\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
 D:\CSharp\CleanArchMVC\CleanArchMVC.WebUI\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
 D:\CSharp\CleanArchMVC\CleanArchMVC.WebUI\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\CSharp\CleanArchMVC\CleanArchMVC.WebUI\obj\Debug\net5.0\Razor\Views\Categories\Create.cshtml.g.cs
