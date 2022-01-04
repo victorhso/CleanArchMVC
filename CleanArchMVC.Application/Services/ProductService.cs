@@ -35,18 +35,18 @@ namespace CleanArchMVC.Application.Services
             return _mapper.Map<ProductDTO>(result);
         }
 
-        public async Task<ProductDTO> GetProductCategory(int? ID)
-        {
-            var productByIdQuery = new GetProductByIdQuery(ID.Value);
+        //public async Task<ProductDTO> GetProductCategory(int? ID)
+        //{
+        //    var productByIdQuery = new GetProductByIdQuery(ID.Value);
 
-            if (productByIdQuery.Equals(null))
-                throw new Exception($"Entidade não foi carregada.");
+        //    if (productByIdQuery.Equals(null))
+        //        throw new Exception($"Entidade não foi carregada.");
 
-            var result = await _mediator.Send(productByIdQuery);
+        //    var result = await _mediator.Send(productByIdQuery);
 
-            return _mapper.Map<ProductDTO>(result);
+        //    return _mapper.Map<ProductDTO>(result);
 
-        }
+        //}
 
         public async Task<IEnumerable<ProductDTO>> GetProducts()
         {
