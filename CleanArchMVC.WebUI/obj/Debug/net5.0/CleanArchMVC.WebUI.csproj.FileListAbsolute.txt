@@ -789,3 +789,5 @@ D:\CSharp\CleanArchMVC\CleanArchMVC.WebUI\obj\Debug\net5.0\CleanArchMVC.WebUI.pd
 D:\CSharp\CleanArchMVC\CleanArchMVC.WebUI\obj\Debug\net5.0\CleanArchMVC.WebUI.genruntimeconfig.cache
 D:\CSharp\CleanArchMVC\CleanArchMVC.WebUI\obj\Debug\net5.0\Razor\Views\Categories\Index.cshtml.g.cs
 D:\CSharp\CleanArchMVC\CleanArchMVC.WebUI\obj\Debug\net5.0\Razor\Views\Products\Index.cshtml.g.cs
+D:\CSharp\CleanArchMVC\CleanArchMVC.WebUI\bin\Debug\net5.0\MediatR.dll
+D:\CSharp\CleanArchMVC\CleanArchMVC.WebUI\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
