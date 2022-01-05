@@ -14,8 +14,13 @@ namespace CleanArchMVC.Domain.Validation
         }
         public static void When(bool hasError, string error)
         {
-            if(hasError)
+            if (hasError)
                 throw new DomainExceptionValidation(error);
+        }
+
+        public static void ErrorMVC(string error)
+        {
+            throw new DomainExceptionValidation(error);
         }
     }
 }

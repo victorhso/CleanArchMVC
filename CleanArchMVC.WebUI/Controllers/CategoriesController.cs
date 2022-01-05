@@ -1,6 +1,7 @@
 ﻿using CleanArchMVC.Application.DTOs;
 using CleanArchMVC.Application.Interfaces;
 using Microsoft.AspNetCore.Mvc;
+using System;
 using System.Threading.Tasks;
 
 namespace CleanArchMVC.WebUI.Controllers
@@ -35,6 +36,38 @@ namespace CleanArchMVC.WebUI.Controllers
                 return RedirectToAction(nameof(Index));
             }
             return View(category);
+        }
+
+        [HttpGet()]
+        public async Task<IActionResult> Edit(int? Id)
+        {
+            if (Id.Equals(null))
+                return NotFound();
+
+            var categoryDTO = await _categoryService.GetById(Id);
+
+            if(categoryDTO.Equals(null))
+                NotFound();
+
+            return View(categoryDTO);
+        }
+
+        [HttpPost()]
+        public async Task<IActionResult> Edit(CategoryDTO categoryDTO)
+        {
+            if (ModelState.IsValid)
+            {
+                try
+                {
+                    await _categoryService.Update(categoryDTO);
+                }
+                catch(Exception ex)
+                {
+                    Domain.Validation.DomainExceptionValidation.ErrorMVC($"Ops! Um erro ocorreu em nossa aplicação, favor contatar o Administrador do Sistema. Mensagem: {ex.Message}");
+                }
+                return RedirectToAction(nameof(Index));
+            }
+            return View(categoryDTO);
         }
     }
 }
