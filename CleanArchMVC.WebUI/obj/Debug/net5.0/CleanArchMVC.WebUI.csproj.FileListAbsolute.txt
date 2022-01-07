@@ -798,3 +798,4 @@ D:\CSharp\CleanArchMVC\CleanArchMVC.WebUI\obj\Debug\net5.0\CleanArchMVC.WebUI.dl
 D:\CSharp\CleanArchMVC\CleanArchMVC.WebUI\obj\Debug\net5.0\ref\CleanArchMVC.WebUI.dll
 D:\CSharp\CleanArchMVC\CleanArchMVC.WebUI\obj\Debug\net5.0\CleanArchMVC.WebUI.pdb
 D:\CSharp\CleanArchMVC\CleanArchMVC.WebUI\obj\Debug\net5.0\CleanArchMVC.WebUI.genruntimeconfig.cache
+D:\CSharp\CleanArchMVC\CleanArchMVC.WebUI\obj\Debug\net5.0\Razor\Views\Products\Edit.cshtml.g.cs

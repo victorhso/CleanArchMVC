@@ -58,7 +58,7 @@ namespace CleanArchMVC.WebUI.Controllers
             if (productDTO == null) return NotFound();
 
             var categories = await _categoryService.GetCategories();
-            ViewBag.ID_CATEGORY = new SelectList(categories, "ID_CATEGORY", "DS_NAME", productDTO.ID_CATEGORY);
+            ViewBag.ID = new SelectList(categories, "ID", "DS_NAME", productDTO.ID_CATEGORY);
 
             return View(productDTO);
         }
