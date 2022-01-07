@@ -106,12 +106,12 @@ D:\C#\CleanArchMVC\CleanArchMVC.Domain.Tets\obj\Debug\net5.0\ref\CleanArchMVC.Do
 D:\C#\CleanArchMVC\CleanArchMVC.Domain.Tets\obj\Debug\net5.0\CleanArchMVC.Domain.Tets.pdb
 D:\C#\CleanArchMVC\CleanArchMVC.Domain.Tets\obj\Debug\net5.0\CleanArchMVC.Domain.Tets.genruntimeconfig.cache
 D:\CSharp\CleanArchMVC\CleanArchMVC.Domain.Tets\bin\Debug\net5.0\CoverletSourceRootsMapping
-D:\CSharp\CleanArchMVC\CleanArchMVC.Domain.Tets\bin\Debug\net5.0\testhost.exe
 D:\CSharp\CleanArchMVC\CleanArchMVC.Domain.Tets\bin\Debug\net5.0\testhost.dll
+D:\CSharp\CleanArchMVC\CleanArchMVC.Domain.Tets\bin\Debug\net5.0\testhost.exe
+D:\CSharp\CleanArchMVC\CleanArchMVC.Domain.Tets\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
 D:\CSharp\CleanArchMVC\CleanArchMVC.Domain.Tets\bin\Debug\net5.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
 D:\CSharp\CleanArchMVC\CleanArchMVC.Domain.Tets\bin\Debug\net5.0\xunit.runner.reporters.netcoreapp10.dll
 D:\CSharp\CleanArchMVC\CleanArchMVC.Domain.Tets\bin\Debug\net5.0\xunit.runner.utility.netcoreapp10.dll
-D:\CSharp\CleanArchMVC\CleanArchMVC.Domain.Tets\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
 D:\CSharp\CleanArchMVC\CleanArchMVC.Domain.Tets\bin\Debug\net5.0\CleanArchMVC.Domain.Tets.deps.json
 D:\CSharp\CleanArchMVC\CleanArchMVC.Domain.Tets\bin\Debug\net5.0\CleanArchMVC.Domain.Tets.runtimeconfig.json
 D:\CSharp\CleanArchMVC\CleanArchMVC.Domain.Tets\bin\Debug\net5.0\CleanArchMVC.Domain.Tets.runtimeconfig.dev.json

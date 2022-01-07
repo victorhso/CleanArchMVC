@@ -40,7 +40,7 @@ namespace CleanArchMVC.Application.DTOs
 
         public Category Category { get; set; }
 
-        [DisplayName("Categories")]
+        [DisplayName("Categorias")]
         public int ID_CATEGORY { get; set; }
     }
 }
