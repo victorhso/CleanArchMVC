@@ -38,6 +38,7 @@ namespace CleanArchMVC.Application.DTOs
         [DisplayName("Imagem do produto")]
         public string DS_IMAGE { get; set; }
 
+        [DisplayName("Categoria")]
         public Category Category { get; set; }
 
         [DisplayName("Categorias")]

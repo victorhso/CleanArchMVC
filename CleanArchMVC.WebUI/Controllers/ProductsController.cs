@@ -96,10 +96,14 @@ namespace CleanArchMVC.WebUI.Controllers
 
         public async Task<IActionResult> Details(int? id)
         {
-            if (id == null) return NotFound();
+            if (id.Equals(null)) 
+                return NotFound();
+            
             var productDTO = await _productService.GetById(id);
 
-            if (productDTO == null) return NotFound();
+            if (productDTO.Equals(null)) 
+                return NotFound();
+            
             var wwwroot = _environment.WebRootPath;
             var image = Path.Combine(wwwroot, "images\\" + productDTO.DS_IMAGE);
             var exists = System.IO.File.Exists(image);
