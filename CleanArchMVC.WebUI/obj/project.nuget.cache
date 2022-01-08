@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "EyuY1ykPqUhTGRN7/VLBX5yNEroF32mQuzkgMaDIa+ooVZEPyG+320j7X/vKv+Bw0kE+Sv83SZ3KmtwVPyv/Sg==",
+  "dgSpecHash": "tDRvjr7xZHO6W6IgOcxQKCp1VGnvYmvYkrT9KVRFkOGx5AxihWDe+b3rzp0O/ajzwONj3F9BshidhblPR+Vi1w==",
   "success": true,
   "projectFilePath": "D:\\CSharp\\CleanArchMVC\\CleanArchMVC.WebUI\\CleanArchMVC.WebUI.csproj",
   "expectedPackageFiles": [
@@ -39,9 +39,9 @@
     "C:\\Users\\victo\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.5\\microsoft.entityframeworkcore.5.0.5.nupkg.sha512",
     "C:\\Users\\victo\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.5\\microsoft.entityframeworkcore.abstractions.5.0.5.nupkg.sha512",
     "C:\\Users\\victo\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\5.0.5\\microsoft.entityframeworkcore.analyzers.5.0.5.nupkg.sha512",
-    "C:\\Users\\victo\\.nuget\\packages\\microsoft.entityframeworkcore.design\\5.0.4\\microsoft.entityframeworkcore.design.5.0.4.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.entityframeworkcore.design\\5.0.5\\microsoft.entityframeworkcore.design.5.0.5.nupkg.sha512",
     "C:\\Users\\victo\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\5.0.5\\microsoft.entityframeworkcore.relational.5.0.5.nupkg.sha512",
-    "C:\\Users\\victo\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\5.0.4\\microsoft.entityframeworkcore.sqlserver.5.0.4.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\5.0.5\\microsoft.entityframeworkcore.sqlserver.5.0.5.nupkg.sha512",
     "C:\\Users\\victo\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0\\microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\victo\\.nuget\\packages\\microsoft.extensions.caching.memory\\5.0.0\\microsoft.extensions.caching.memory.5.0.0.nupkg.sha512",
     "C:\\Users\\victo\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",

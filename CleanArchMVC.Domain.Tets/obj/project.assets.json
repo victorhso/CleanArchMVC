@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     "net5.0": {
-      "coverlet.collector/3.0.2": {
+      "coverlet.collector/3.0.3": {
         "type": "package",
         "build": {
           "build/netstandard1.0/coverlet.collector.targets": {}
@@ -1723,10 +1723,10 @@
     }
   },
   "libraries": {
-    "coverlet.collector/3.0.2": {
-      "sha512": "iBvPAIDaI7j/iMx/DzCGCJ3rdiOmel9VINEfaTiBv/NKIGHOP4X3hqc6Q1wgMtArEshlhXexQknP17SK4vXb1w==",
+    "coverlet.collector/3.0.3": {
+      "sha512": "PdyhdzG2LK7YUEtccObPql+3OuFODaFNeYayxdPoK1eHb2StZoeQf1WMb16QrKiIdi4fs5Kog8jxXtlZOgAEuA==",
       "type": "package",
-      "path": "coverlet.collector/3.0.2",
+      "path": "coverlet.collector/3.0.3",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1770,7 +1770,7 @@
         "build/netstandard1.0/coverlet.core.dll",
         "build/netstandard1.0/coverlet.core.pdb",
         "coverlet-icon.png",
-        "coverlet.collector.3.0.2.nupkg.sha512",
+        "coverlet.collector.3.0.3.nupkg.sha512",
         "coverlet.collector.nuspec"
       ]
     },
@@ -6065,7 +6065,7 @@
       "CleanArchMVC.Domain >= 1.0.0",
       "FluentAssertions >= 5.10.3",
       "Microsoft.NET.Test.Sdk >= 16.9.4",
-      "coverlet.collector >= 3.0.2",
+      "coverlet.collector >= 3.0.3",
       "xunit >= 2.4.1",
       "xunit.runner.visualstudio >= 2.4.3"
     ]
@@ -6132,7 +6132,7 @@
             "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
             "suppressParent": "All",
             "target": "Package",
-            "version": "[3.0.2, )"
+            "version": "[3.0.3, )"
           },
           "xunit": {
             "target": "Package",

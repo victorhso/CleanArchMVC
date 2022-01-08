@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "OSBNC1Jv3G0T8AUpUV2MSCnSw4v/zzKjuK4R95kgkNNlYzZ5O46QcWlw8Zp9JnSXoAvrWLtiYyso35/G3IEfyg==",
+  "dgSpecHash": "h75KveaDAQQvCVQ8XRFBts0xWZgnAHPEVElBtb9AB34rAAYKGRwj+1FWhz0Re2QNR1o1ofp5S5Zpc++T3RqO+g==",
   "success": true,
   "projectFilePath": "D:\\CSharp\\CleanArchMVC\\CleanArchMVC.Infra.IoC\\CleanArchMVC.Infra.IoC.csproj",
   "expectedPackageFiles": [
@@ -32,9 +32,9 @@
     "C:\\Users\\victo\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.5\\microsoft.entityframeworkcore.5.0.5.nupkg.sha512",
     "C:\\Users\\victo\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.5\\microsoft.entityframeworkcore.abstractions.5.0.5.nupkg.sha512",
     "C:\\Users\\victo\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\5.0.5\\microsoft.entityframeworkcore.analyzers.5.0.5.nupkg.sha512",
-    "C:\\Users\\victo\\.nuget\\packages\\microsoft.entityframeworkcore.design\\5.0.4\\microsoft.entityframeworkcore.design.5.0.4.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.entityframeworkcore.design\\5.0.5\\microsoft.entityframeworkcore.design.5.0.5.nupkg.sha512",
     "C:\\Users\\victo\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\5.0.5\\microsoft.entityframeworkcore.relational.5.0.5.nupkg.sha512",
-    "C:\\Users\\victo\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\5.0.4\\microsoft.entityframeworkcore.sqlserver.5.0.4.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\5.0.5\\microsoft.entityframeworkcore.sqlserver.5.0.5.nupkg.sha512",
     "C:\\Users\\victo\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0\\microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\victo\\.nuget\\packages\\microsoft.extensions.caching.memory\\5.0.0\\microsoft.extensions.caching.memory.5.0.0.nupkg.sha512",
     "C:\\Users\\victo\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",

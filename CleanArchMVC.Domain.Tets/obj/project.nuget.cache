@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "tEqvQa9saPd5A50Moy4JrS5XJYpJgDRx8apH739gH4NbiE21z+VM0L13kN9avQBhvf0ZgUezLfgeBrgm3YgibA==",
+  "dgSpecHash": "k5xCZSMta4NN7pXboyVqOWuPmt6ZuCsVi/SZWoB5Muy/BtcTvtXenDI+zYakkMhWNF1Up2sP/MTAA8HNU8J2Ww==",
   "success": true,
   "projectFilePath": "D:\\CSharp\\CleanArchMVC\\CleanArchMVC.Domain.Tets\\CleanArchMVC.Domain.Tets.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\victo\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\coverlet.collector\\3.0.3\\coverlet.collector.3.0.3.nupkg.sha512",
     "C:\\Users\\victo\\.nuget\\packages\\fluentassertions\\5.10.3\\fluentassertions.5.10.3.nupkg.sha512",
     "C:\\Users\\victo\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",
     "C:\\Users\\victo\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
