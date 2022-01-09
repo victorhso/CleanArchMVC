@@ -19,7 +19,6 @@ D:\CSharp\CleanArchMVC\CleanArchMVC.Application\bin\Debug\net5.0\ref\CleanArchMV
 D:\CSharp\CleanArchMVC\CleanArchMVC.Application\bin\Debug\net5.0\CleanArchMVC.Application.pdb
 D:\CSharp\CleanArchMVC\CleanArchMVC.Application\bin\Debug\net5.0\CleanArchMVC.Domain.dll
 D:\CSharp\CleanArchMVC\CleanArchMVC.Application\bin\Debug\net5.0\CleanArchMVC.Domain.pdb
-D:\CSharp\CleanArchMVC\CleanArchMVC.Application\obj\Debug\net5.0\CleanArchMVC.Application.csproj.AssemblyReference.cache
 D:\CSharp\CleanArchMVC\CleanArchMVC.Application\obj\Debug\net5.0\CleanArchMVC.Application.GeneratedMSBuildEditorConfig.editorconfig
 D:\CSharp\CleanArchMVC\CleanArchMVC.Application\obj\Debug\net5.0\CleanArchMVC.Application.AssemblyInfoInputs.cache
 D:\CSharp\CleanArchMVC\CleanArchMVC.Application\obj\Debug\net5.0\CleanArchMVC.Application.AssemblyInfo.cs
@@ -28,3 +27,4 @@ D:\CSharp\CleanArchMVC\CleanArchMVC.Application\obj\Debug\net5.0\CleanArchMVC.Ap
 D:\CSharp\CleanArchMVC\CleanArchMVC.Application\obj\Debug\net5.0\CleanArchMVC.Application.dll
 D:\CSharp\CleanArchMVC\CleanArchMVC.Application\obj\Debug\net5.0\ref\CleanArchMVC.Application.dll
 D:\CSharp\CleanArchMVC\CleanArchMVC.Application\obj\Debug\net5.0\CleanArchMVC.Application.pdb
+D:\CSharp\CleanArchMVC\CleanArchMVC.Application\obj\Debug\net5.0\CleanArchMVC.Application.csproj.AssemblyReference.cache

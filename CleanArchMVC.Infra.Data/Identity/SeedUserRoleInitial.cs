@@ -15,9 +15,9 @@ namespace CleanArchMVC.Infra.Data.Identity
             _roleManager = roleManager;
         }
 
-        public void SeedRoles()
+        public void SeedUsers()
         {
-            if (_userManager.FindByEmailAsync("usuario@localhost").Result.Equals(null))
+            if (_userManager.FindByEmailAsync("usuario@localhost").Result == null)
             {
                 ApplicationUser newUser = new ApplicationUser();
 
@@ -35,7 +35,7 @@ namespace CleanArchMVC.Infra.Data.Identity
                     _userManager.AddToRoleAsync(newUser, "User").Wait();
             }
 
-            if (_userManager.FindByEmailAsync("admin@localhost").Result.Equals(null))
+            if (_userManager.FindByEmailAsync("admin@localhost").Result == null)
             {
                 ApplicationUser newUser = new ApplicationUser();
 
@@ -54,7 +54,7 @@ namespace CleanArchMVC.Infra.Data.Identity
             }
         }
 
-        public void SeedUsers()
+        public void SeedRoles()
         {
             if (!_roleManager.RoleExistsAsync("User").Result)
             {

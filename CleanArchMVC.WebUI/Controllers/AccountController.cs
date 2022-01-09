@@ -48,7 +48,7 @@ namespace CleanArchMVC.WebUI.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult> Post(RegisterViewModel model)
+        public async Task<IActionResult> Register(RegisterViewModel model)
         {
             var result = await _authenticate.RegisterUser(model.DS_EMAIL, model.DS_PASSWORD);
 
@@ -56,7 +56,7 @@ namespace CleanArchMVC.WebUI.Controllers
                 return Redirect("/");
             else
             {
-                ModelState.AddModelError(string.Empty, "Tentativa de registro inválida");
+                ModelState.AddModelError(string.Empty, "Tentativa de registro inválida (a senha deve ser forte).");
                 return View(model);
             }
         }
