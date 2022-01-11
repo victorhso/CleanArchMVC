@@ -3,6 +3,7 @@ using System;
 using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
+using System.Text.Json.Serialization;
 
 namespace CleanArchMVC.Application.DTOs
 {
@@ -39,6 +40,7 @@ namespace CleanArchMVC.Application.DTOs
         public string DS_IMAGE { get; set; }
 
         [DisplayName("Categoria")]
+        [JsonIgnore]
         public Category Category { get; set; }
 
         [DisplayName("Categorias")]
