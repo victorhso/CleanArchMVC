@@ -39,6 +39,20 @@ namespace CleanArchMVC.API.Controllers
 
         }
 
+        [HttpPost("CreateUser")]
+        public async Task<ActionResult> RegisterUser([FromBody] LoginModel userInfo)
+        {
+            var result = await _authenticate.RegisterUser(userInfo.Email, userInfo.Password);
+
+            if (result)
+                return Ok($"Usuário {userInfo.Email} foi criado com sucesso.");
+            else
+            {
+                ModelState.AddModelError(String.Empty, "Tentativa de cadastro inválida.");
+                return BadRequest(ModelState);
+            }
+        }
+
         private UserToken GenerateToken(LoginModel userInfo)
         {
             //Declarações do usuário
