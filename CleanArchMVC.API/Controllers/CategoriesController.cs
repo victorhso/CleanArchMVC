@@ -1,6 +1,6 @@
 ﻿using CleanArchMVC.Application.DTOs;
 using CleanArchMVC.Application.Interfaces;
-using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
 using System.Threading.Tasks;
@@ -9,6 +9,7 @@ namespace CleanArchMVC.API.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize]
     public class CategoriesController : ControllerBase
     {
         private readonly ICategoryService _categoryService;
@@ -47,7 +48,7 @@ namespace CleanArchMVC.API.Controllers
 
             await _categoryService.Add(categoryDTO);
 
-            return new CreatedAtRouteResult("GetCategory", new {id = categoryDTO.ID}, categoryDTO);
+            return new CreatedAtRouteResult("GetCategory", new { id = categoryDTO.ID }, categoryDTO);
         }
 
         [HttpPut]

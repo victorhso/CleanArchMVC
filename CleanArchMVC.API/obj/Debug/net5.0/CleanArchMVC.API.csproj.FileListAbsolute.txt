@@ -31,7 +31,6 @@ D:\CSharp\CleanArchMVC\CleanArchMVC.API\bin\Debug\net5.0\Microsoft.IdentityModel
 D:\CSharp\CleanArchMVC\CleanArchMVC.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 D:\CSharp\CleanArchMVC\CleanArchMVC.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
 D:\CSharp\CleanArchMVC\CleanArchMVC.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
-D:\CSharp\CleanArchMVC\CleanArchMVC.API\bin\Debug\net5.0\Newtonsoft.Json.dll
 D:\CSharp\CleanArchMVC\CleanArchMVC.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 D:\CSharp\CleanArchMVC\CleanArchMVC.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\CSharp\CleanArchMVC\CleanArchMVC.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -75,3 +74,4 @@ D:\CSharp\CleanArchMVC\CleanArchMVC.API\obj\Debug\net5.0\CleanArchMVC.API.dll
 D:\CSharp\CleanArchMVC\CleanArchMVC.API\obj\Debug\net5.0\ref\CleanArchMVC.API.dll
 D:\CSharp\CleanArchMVC\CleanArchMVC.API\obj\Debug\net5.0\CleanArchMVC.API.pdb
 D:\CSharp\CleanArchMVC\CleanArchMVC.API\obj\Debug\net5.0\CleanArchMVC.API.genruntimeconfig.cache
+D:\CSharp\CleanArchMVC\CleanArchMVC.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
