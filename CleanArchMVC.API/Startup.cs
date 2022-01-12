@@ -48,9 +48,9 @@ namespace CleanArchMVC.API
             }
 
             app.UseHttpsRedirection();
-
+            app.UseStatusCodePages(); //Vai explicitar os códigos de retorno no swagger.
             app.UseRouting();
-
+            app.UseAuthentication();
             app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>
